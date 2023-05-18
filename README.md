@@ -19,23 +19,23 @@ What we have done:
 
 ### Demo Games
 
-DEMO 8 : [东方绀珠传AEX](http://demo8.lrd.moe) [2015-12-4] 
+DEMO 8 : [东方绀珠传AEX](https://touhou-public.github.io/WeHou/demo8) [2015-12-4] 
 
 ![DEMO8](./img/demo8.jpg)
 
-DEMO 7 : [狸舞賀春短劇](http://demo7.lrd.moe) [2015-2-27] 
+DEMO 7 : [狸舞賀春短劇](https://touhou-public.github.io/WeHou/demo7) [2015-2-27] 
 
 ![DEMO7](./img/demo7.jpg)
 
-DEMO 6 : [秦心符卡STG化複刻](http://demo6.lrd.moe) [2014-10-11] 
+DEMO 6 : [秦心符卡STG化複刻](https://touhou-public.github.io/WeHou/demo6) [2014-10-11] 
 
 ![DEMO6](./img/demo6.jpg)
 
-DEMO 5 : [幻想格林尼治](http://demo5.lrd.moe) [2014-6-7] 
+DEMO 5 : [幻想格林尼治](https://touhou-public.github.io/WeHou/demo5) [2014-6-7] 
 
 ![DEMO5](./img/demo5.jpg)
 
-DEMO 4 : [曲綫激光祭](http://demo4.lrd.moe) [2014-1-22] 
+DEMO 4 : [曲綫激光祭](https://touhou-public.github.io/WeHou/demo4) [2014-1-22] 
 
 ![DEMO4](./img/demo4.jpg)
 
